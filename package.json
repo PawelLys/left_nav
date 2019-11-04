@@ -2,7 +2,7 @@
   "name": "project",
   "version": "0.0.1",
   "description": "",
-  "homepage":"https://pawellys.github.io/leftnav",
+  "homepage":"https://pawellys.github.io/left_nav",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server  --config webpack.dev.js --open",
